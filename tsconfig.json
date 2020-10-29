@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "strict": true
+  },
+  "include": [
+    "src/**/*.d.ts"
+  ],
+  "files": [
+    "test/typings.tsx"
+  ]
+}
